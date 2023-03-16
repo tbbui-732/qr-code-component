@@ -10,7 +10,7 @@ Nothing besides pure HTML and CSS.
 In order to create the QR code container, I created a div named "qr-container" and used a flexbox container in order to horizontally align the elements. 
 
 ## Design to attempt
-![actual design requested by frontend mentor](./images/image-qr-code.png)
+![actual design requested by frontend mentor](./design/desktop-design.jpg)
 
 ## My attempt
 Note: I only used the above PNG as reference. There were no Figma files provided.
