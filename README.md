@@ -14,4 +14,4 @@ In order to create the QR code container, I created a div named "qr-container" a
 
 ## My attempt
 Note: I only used the above PNG as reference. There were no Figma files provided.
-![my attempt at designing the qr code](./images/attempt.png)
+![my attempt at designing the qr code](./design/attempt.png)
