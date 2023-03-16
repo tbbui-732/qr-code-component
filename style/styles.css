@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'Outfit';
+  src: url('fonts/Outfit.ttf') format('truetype');
+}
+
+body {
+  margin: 0 auto;
+  width: 50%;
+  background:  hsl(212, 45%, 89%);
+
+  /* flex container to horizontally align qr container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.qr-container {
+
+  /* flex container for qr code and text */
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  background: hsl(0, 0%, 100%);
+  height: 700px;
+  width: 400px;
+
+  padding: 35px;
+  margin: 50px;
+
+  border-radius: 25px;
+}
+
+.qr-code {
+  align-self: start; /* prevents stretching */
+  height: 400px;
+  width: 400px;
+  border-radius: 25px;
+  margin-bottom: 5px;
+}
+
+.large-text {
+  text-align: center;
+  font-size: 30px;
+  color: hsl(218, 44%, 22%);
+  margin: 20px;
+  margin-top: 40px;
+  font-weight: 700;
+  font-family: 'Outfit';
+}
+
+.small-text {
+  text-align: center;
+  font-size: 25px;
+  color: hsl(220, 15%, 55%);
+  margin: 10px;
+  font-weight: 400;
+  font-family: 'Outfit';
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
