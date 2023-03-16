@@ -13,5 +13,6 @@ In order to create the QR code container, I created a div named "qr-container" a
 ![actual design requested by frontend mentor](./design/desktop-design.jpg)
 
 ## My attempt
-Note: I only used the above PNG as reference. There were no Figma files provided.
+Note: I only used the above JPG as reference. There were no Figma files provided.
+If the image is not showing, the attempt is located in /design/attempt.png
 ![my attempt at designing the qr code](./design/attempt.png)
