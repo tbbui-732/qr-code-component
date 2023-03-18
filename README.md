@@ -1,5 +1,8 @@
 # Welcome! 😳😳😳
 
+## Link
+https://tbbui-732.github.io/qr-code-component/
+
 ## What is this? 
 This is a very basic frontend mentor challenge to test my HTML and CSS skills
 
